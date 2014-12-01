@@ -16,7 +16,7 @@ import org.w3c.css.sac.Locator;
  *
  * @author Juliano Nardelli 
  */
-public class Yahoo2 {
+public class JulianoNardelli {
 
     /**
      * @param args the command line arguments
